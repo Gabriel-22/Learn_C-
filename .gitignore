@@ -1,0 +1,9 @@
+build-*/
+
+*.user
+*.pro.user
+*.autosave
+
+# Windows-specific files
+Thumbs.db
+desktop.ini
