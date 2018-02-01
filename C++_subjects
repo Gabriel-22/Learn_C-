@@ -3,5 +3,8 @@ Class and objects:
 - Class definition
 - Declare objects
 - Member functions
-- Data member
+- Member variables
 - Scope resolution operator
+- Access modifiers: private, protected, public
+- Constructor
+- Destructor
