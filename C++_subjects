@@ -8,3 +8,4 @@ Class and objects:
 - Access modifiers: private, protected, public
 - Constructor
 - Destructor
+- Copy constructor
