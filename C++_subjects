@@ -9,3 +9,4 @@ Class and objects:
 - Constructor
 - Destructor
 - Copy constructor
+- Friend function
