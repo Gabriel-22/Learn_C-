@@ -1,0 +1,24 @@
+Types			Keywords
+
+-Boolean:			Bool
+-Character:			Char
+-integer:			int
+-floating point:	float
+-double f. point:	double
+-valueless:			void
+
+type modifiers:
+
+-signed, unsigned, short, long.
+
+The operator sizeof() shows the size of data types in bytes.
+Example:
+	cout << "size of int: " << sizeof(int) << endl;
+	cout << "size of double: " << sizeof(double) << endl;
+
+To create a new name for an existing type, use typedef.
+Example:
+	typedef int value;
+
+	Now value is another name for int.
+	value number1;
