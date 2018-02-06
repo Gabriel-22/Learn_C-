@@ -6,18 +6,20 @@ using namespace std;
 
 class Student
 {
-private:
+private: // Member variables are private.
     int id_;
     string name_;
 
-public:
+public: // Member functions are public.
+
+    // Setter functions.
 
     void setId(int id);
-
     void setName(string name);
 
-    int getId();
+    // Getter functions.
 
+    int getId();
     string getName();
 
 };
